@@ -9,7 +9,7 @@ A handy jQuery plugin that preloads your images hover state, then displays it "o
 
 Apply .hoverState() to your image. The default behaviour will switch out your image to (image name)-on.(extension). "-on" can be overridden by using the "hoverExt" option.
 
-```
+```html
 <p><img class="hover_state" src="/images/springload.png" alt="Springload" /></p>
 
 <script type="text/javascript">
